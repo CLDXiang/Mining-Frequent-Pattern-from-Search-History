@@ -173,6 +173,8 @@ yarn jar /home/hadoop/cluster/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.8
 
 若有需要可以将得到的结果按照类似 2.6 节的方法取回 Master 或本地。
 
-## 三、关于项目文档
+## 三、项目文档
 
-我写有数万字的详细项目文档，如果有需要可以通过邮件联系我。如果对您有帮助就请 Star 一下这个仓库吧~
+本项目的详细项目文档在[这里](https://github.com/CLDXiang/Mining-Frequent-Pattern-from-Search-History/blob/master/doc/%E6%90%9C%E7%B4%A2%E8%AE%B0%E5%BD%95%E9%A2%91%E7%B9%81%E6%A8%A1%E5%BC%8F%E6%8C%96%E6%8E%98.pdf)。
+
+如果对您有帮助就请在右上角 Star 一下这个仓库吧~
